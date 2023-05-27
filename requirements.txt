@@ -1,0 +1,6 @@
+alembic
+asyncpg
+fastapi[all]
+gunicorn
+requests
+sqlalchemy
